@@ -1,0 +1,31 @@
+#line1 {
+    width: 1000px;
+    height: 200px;
+    background-color:darkolivegreen;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#line2 {
+    width: 1000px;
+    height: 200px;
+    background-color: darkorange;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#line3 {
+    width: 1000px;
+    height: 200px;
+    background-color:darksalmon;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.base {
+    width: 1000px;
+    background-color: blanchedalmond;
+}
+.pic {
+    height: 180px;
+}
